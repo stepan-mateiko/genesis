@@ -1,0 +1,86 @@
+{
+    "id": "352be3c6-848b-4c19-9e7d-54fe68fef183",
+    "title": "Lack of Motivation & How to Overcome It",
+    "tags": [
+        "productivity"
+    ],
+    "launchDate": "2023-03-06T16:50:06.000Z",
+    "status": "launched",
+    "description": "Reignite your inner drive by managing factors that dampen your motivation.",
+    "duration": 521,
+    "previewImageLink": "https://wisey.app/assets/images/web/course-covers/lack-of-motivation-how-to-overcome-it",
+    "rating": 3.5,
+    "meta": {
+        "slug": "lack-of-motivation-how-to-overcome-it",
+        "skills": [
+            "Aligning your goals with your motives",
+            "Overcoming decision paralysis",
+            "Reframing negative self-talk",
+            "Gaining clarity",
+            "Challenging yourself"
+        ],
+        "courseVideoPreview": {
+            "link": "https://www.learningcontainer.com/wp-content/uploads/2020/05/sample-mp4-file.mp4" ,
+            "duration": 27,
+            "previewImageLink": "https://wisey.app/assets/images/web/course-covers/lack-of-motivation-how-to-overcome-it/preview"
+        }
+    },
+    "lessons": [
+        {
+            "id": "278e5a0e-8df1-4646-9984-10289d52dc2d",
+            "title": "Why we lack motivation",
+            "duration": 255,
+            "order": 1,
+            "type": "video",
+            "status": "unlocked",
+            "link": "https://www.learningcontainer.com/wp-content/uploads/2020/05/sample-mp4-file.mp4",
+            "previewImageLink": "https://wisey.app/assets/images/web/lessons-covers/lack-of-motivation-how-to-overcome-it/lesson-1",
+            "meta": null
+        },
+        {
+            "id": "d2379510-3e3a-4d87-a3e9-05c1a0195548",
+            "title": "Decision paralysis",
+            "duration": 266,
+            "order": 2,
+            "type": "video",
+            "status": "unlocked",
+            "link": "https://www.learningcontainer.com/wp-content/uploads/2020/05/sample-mp4-file.mp4",
+            "previewImageLink": "https://wisey.app/assets/images/web/lessons-covers/lack-of-motivation-how-to-overcome-it/lesson-2",
+            "meta": null
+        },
+        {
+            "id": "29a8fc4d-b2a4-420b-80de-73ecda13f28e",
+            "title": "Negative self-talk",
+            "duration": 285,
+            "order": 3,
+            "type": "video",
+            "status": "locked",
+            "link": "https://www.learningcontainer.com/wp-content/uploads/2020/05/sample-mp4-file.mp4",
+            "previewImageLink": "https://wisey.app/assets/images/web/lessons-covers/lack-of-motivation-how-to-overcome-it/lesson-3",
+            "meta": null
+        },
+        {
+            "id": "a7ffcfb9-32b0-4bb8-8c41-ed5e2a45fd4a",
+            "title": "Lack of clarity",
+            "duration": 293,
+            "order": 4,
+            "type": "video",
+            "status": "locked",
+            "link": "https://www.learningcontainer.com/wp-content/uploads/2020/05/sample-mp4-file.mp4",
+            "previewImageLink": "https://wisey.app/assets/images/web/lessons-covers/lack-of-motivation-how-to-overcome-it/lesson-4",
+            "meta": null
+        },
+        {
+            "id": "ec7df2b9-2fe2-49b7-81e2-5b5df86997e3",
+            "title": "Lack of challenges",
+            "duration": 275,
+            "order": 5,
+            "type": "video",
+            "status": "locked",
+            "link": "https://www.learningcontainer.com/wp-content/uploads/2020/05/sample-mp4-file.mp4",
+            "previewImageLink": "https://wisey.app/assets/images/web/lessons-covers/lack-of-motivation-how-to-overcome-it/lesson-5",
+            "meta": null
+        }
+    ],
+    "containsLockedLessons": true
+}

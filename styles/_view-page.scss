@@ -1,0 +1,85 @@
+.view__header {
+  text-align: center;
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+}
+
+.view__main {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.course-info {
+  flex: 1 0 300px;
+  margin-right: 20px;
+}
+
+.lesson-list {
+  flex: 1 0 300px;
+  margin-right: 20px;
+}
+
+.lesson-item {
+  margin-bottom: 10px;
+  cursor: pointer;
+}
+
+.lesson-item.locked {
+  color: #999;
+}
+
+.video-container {
+  position: relative;
+  flex: 2 0 400px;
+  max-width: 800px;
+  height: 0;
+  padding-bottom: 56.25%;
+  margin-top: 20px;
+}
+
+.video-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.5);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #fff;
+  font-size: 24px;
+  font-weight: bold;
+  display: none;
+}
+
+.video-container.pip {
+  position: fixed;
+  bottom: 10px;
+  right: 10px;
+  max-width: 300px;
+  max-height: 200px;
+  width: auto;
+  height: auto;
+  z-index: 9999;
+}
+
+.video-container.pip video {
+  width: 100%;
+  height: 100%;
+}
+
+.video-speed {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  background-color: rgba(255, 255, 255, 0.8);
+  font-size: 12px;
+  padding: 5px;
+  border-top-left-radius: 5px;
+  display: none;
+}
